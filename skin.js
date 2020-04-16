@@ -3,7 +3,7 @@
 // Filename: simplex_v6.ggsk
 // Generated 2020-04-16T14:35:00
 
-function pano2vrSkin(player,base) {
+export default function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
 	player.addVariable('opt_zoom', 2, true);
 	player.addVariable('opt_autorotate', 2, true);

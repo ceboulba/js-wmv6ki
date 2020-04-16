@@ -1,8 +1,8 @@
 // Import stylesheets
 import './style.css';
 
+import  './skin.js'
 import './pano2vr_player.js'
-import './skin.js'
 import './webvr/three.min.js'
 import './webvr/three.min.js'
 
